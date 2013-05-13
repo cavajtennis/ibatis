@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/test/com/ibatis/dao/impl/sqlmap
+END
+account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/test/com/ibatis/dao/impl/sqlmap/account.xml
+END
+sql-map-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/test/com/ibatis/dao/impl/sqlmap/sql-map-config.xml
+END
+SqlMapAccountDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/test/com/ibatis/dao/impl/sqlmap/SqlMapAccountDao.java
+END

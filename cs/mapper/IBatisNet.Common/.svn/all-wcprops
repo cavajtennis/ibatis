@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common
+END
+notice.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/notice.txt
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/AssemblyInfo.cs
+END
+licence.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/licence.txt
+END
+IDalSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/IDalSession.cs
+END
+DataSourceDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/DataSourceDeSerializer.cs
+END
+ProviderDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/ProviderDeSerializer.cs
+END
+AssemblyKey.snk
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/AssemblyKey.snk
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/ChangeLog.txt
+END
+provider.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/provider.xsd
+END
+IBatisNet.Common.build
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/IBatisNet.Common.build
+END
+IBatisNet.Common.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/IBatisNet.Common.csproj
+END
+DataSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/DataSource.cs
+END
+Provider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/Provider.cs
+END

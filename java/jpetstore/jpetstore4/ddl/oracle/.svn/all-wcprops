@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/ddl/oracle
+END
+jpetstore-oracle-dataload.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/ddl/oracle/jpetstore-oracle-dataload.sql
+END
+jpetstore-oracle-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/ddl/oracle/jpetstore-oracle-schema.sql
+END

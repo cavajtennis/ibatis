@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap
+END
+RowHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap/RowHandler.java
+END
+XmlSqlMapBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap/XmlSqlMapBuilder.java
+END
+RowHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap/RowHandlerAdapter.java
+END
+MappedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap/MappedStatement.java
+END
+SqlMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap/SqlMap.java
+END

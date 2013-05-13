@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/tutorial/Model
+END
+Model.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/tutorial/Model/Model.csproj
+END
+Helper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/tutorial/Model/Helper.cs
+END
+Helpers.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/tutorial/Model/Helpers.cs
+END
+Person.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/tutorial/Model/Person.cs
+END
+PersonHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/tutorial/Model/PersonHelper.cs
+END
+PersonTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/tutorial/Model/PersonTest.cs
+END
+Model.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/tutorial/Model/Model.csproj.user
+END

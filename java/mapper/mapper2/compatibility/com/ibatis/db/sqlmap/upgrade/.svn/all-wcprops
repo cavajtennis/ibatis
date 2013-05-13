@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap/upgrade
+END
+SqlMap.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap/upgrade/SqlMap.xsl
+END
+ConvertTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap/upgrade/ConvertTask.java
+END
+SqlMapUpgradeTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap/upgrade/SqlMapUpgradeTool.java
+END
+SqlMapXmlConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap/upgrade/SqlMapXmlConverter.java
+END
+SqlMapConfig.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap/upgrade/SqlMapConfig.xsl
+END
+DocTypeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/sqlmap/upgrade/DocTypeReader.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Maps/MSSQL/SqlClient
+END
+DynamicAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Maps/MSSQL/SqlClient/DynamicAccount.xml
+END
+Other.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Maps/MSSQL/SqlClient/Other.xml
+END
+Enumeration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Maps/MSSQL/SqlClient/Enumeration.xml
+END
+LineItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Maps/MSSQL/SqlClient/LineItem.xml
+END
+Complex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Maps/MSSQL/SqlClient/Complex.xml
+END
+Order.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Maps/MSSQL/SqlClient/Order.xml
+END
+Account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Maps/MSSQL/SqlClient/Account.xml
+END
+Category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Maps/MSSQL/SqlClient/Category.xml
+END

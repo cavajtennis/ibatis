@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/dao/engine/impl
+END
+StandardDaoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/dao/engine/impl/StandardDaoManager.java
+END
+DaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/dao/engine/impl/DaoImpl.java
+END
+DaoProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/dao/engine/impl/DaoProxy.java
+END
+DaoContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/dao/engine/impl/DaoContext.java
+END
+DaoTransactionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/dao/engine/impl/DaoTransactionState.java
+END

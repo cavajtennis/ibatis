@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common.Test/NUnit/CommonTests/DynamicProxy
+END
+IMySecondInterface.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common.Test/NUnit/CommonTests/DynamicProxy/IMySecondInterface.cs
+END
+IMyInterface.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common.Test/NUnit/CommonTests/DynamicProxy/IMyInterface.cs
+END
+ProxyTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common.Test/NUnit/CommonTests/DynamicProxy/ProxyTest.cs
+END
+MySecondInterfaceImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common.Test/NUnit/CommonTests/DynamicProxy/MySecondInterfaceImpl.cs
+END
+MyInterfaceImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common.Test/NUnit/CommonTests/DynamicProxy/MyInterfaceImpl.cs
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/Maps/MSSQL/OleDb
+END
+DynamicAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/Maps/MSSQL/OleDb/DynamicAccount.xml
+END
+Other.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/Maps/MSSQL/OleDb/Other.xml
+END
+ResultClass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/Maps/MSSQL/OleDb/ResultClass.xml
+END
+Enumeration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/Maps/MSSQL/OleDb/Enumeration.xml
+END
+LineItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/Maps/MSSQL/OleDb/LineItem.xml
+END
+Complex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/Maps/MSSQL/OleDb/Complex.xml
+END
+Order.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/Maps/MSSQL/OleDb/Order.xml
+END
+Account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/Maps/MSSQL/OleDb/Account.xml
+END
+Category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/Maps/MSSQL/OleDb/Category.xml
+END
+document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/Maps/MSSQL/OleDb/document.xml
+END

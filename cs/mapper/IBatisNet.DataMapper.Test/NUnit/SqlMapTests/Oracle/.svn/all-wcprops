@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/Oracle
+END
+StatementGenerate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/Oracle/StatementGenerate.cs
+END
+StatementTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/Oracle/StatementTest.cs
+END
+ProcedureTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/Oracle/ProcedureTest.cs
+END

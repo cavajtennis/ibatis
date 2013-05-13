@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests
+END
+ResultMapTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/ResultMapTest.cs
+END
+CacheKeyTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/CacheKeyTest.cs
+END
+ParameterMapTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/ParameterMapTest.cs
+END
+StatementNamespaceTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/StatementNamespaceTest.cs
+END
+ConfigureTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/ConfigureTest.cs
+END
+DynamicTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/DynamicTest.cs
+END
+TransactionTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/TransactionTest.cs
+END
+InheritanceTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/InheritanceTest.cs
+END
+DynamicPrependTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/DynamicPrependTest.cs
+END
+CacheTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/CacheTest.cs
+END
+ResultClassTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/ResultClassTest.cs
+END
+StatementTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/StatementTest.cs
+END
+ThreadTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/ThreadTest.cs
+END
+ComplexTypeTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/ComplexTypeTest.cs
+END
+BaseTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper.Test/NUnit/SqlMapTests/BaseTest.cs
+END

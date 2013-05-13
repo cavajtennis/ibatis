@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/devsrc/net/sf/hibernate
+END
+HibernateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/devsrc/net/sf/hibernate/HibernateException.java
+END
+Criteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/devsrc/net/sf/hibernate/Criteria.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/devsrc/net/sf/hibernate/Session.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/devsrc/net/sf/hibernate/Query.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/devsrc/net/sf/hibernate/Transaction.java
+END
+FlushMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/devsrc/net/sf/hibernate/FlushMode.java
+END
+SessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/devsrc/net/sf/hibernate/SessionFactory.java
+END
+Databinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/devsrc/net/sf/hibernate/Databinder.java
+END
+LockMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/devsrc/net/sf/hibernate/LockMode.java
+END
+Interceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/devsrc/net/sf/hibernate/Interceptor.java
+END
+ReplicationMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/devsrc/net/sf/hibernate/ReplicationMode.java
+END

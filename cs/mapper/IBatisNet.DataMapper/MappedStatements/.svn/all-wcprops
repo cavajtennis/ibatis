@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/MappedStatements
+END
+MappedStatement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/MappedStatements/MappedStatement.cs
+END
+SelectMappedStatement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/MappedStatements/SelectMappedStatement.cs
+END
+DeleteMappedStatement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/MappedStatements/DeleteMappedStatement.cs
+END
+UpdateMappedStatement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/MappedStatements/UpdateMappedStatement.cs
+END
+InsertMappedStatement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/MappedStatements/InsertMappedStatement.cs
+END
+CachingStatement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/MappedStatements/CachingStatement.cs
+END
+IMappedStatement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/MappedStatements/IMappedStatement.cs
+END
+PaginatedList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/MappedStatements/PaginatedList.cs
+END

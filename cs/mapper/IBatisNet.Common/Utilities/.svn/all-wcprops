@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/Utilities
+END
+ScriptRunner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/Utilities/ScriptRunner.cs
+END
+ConfigWatcherHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/Utilities/ConfigWatcherHandler.cs
+END
+StringTokenizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/Utilities/StringTokenizer.cs
+END
+HashCodeProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/Utilities/HashCodeProvider.cs
+END
+DBHelperParameterCache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/Utilities/DBHelperParameterCache.cs
+END
+Resources.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/Utilities/Resources.cs
+END

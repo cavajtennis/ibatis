@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/dao/engine/transaction/ojb
+END
+OjbBrokerTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/dao/engine/transaction/ojb/OjbBrokerTransactionManager.java
+END
+OjbBrokerDaoTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/dao/engine/transaction/ojb/OjbBrokerDaoTransaction.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/transaction
+END
+TransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/transaction/TransactionManager.java
+END
+TransactionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/transaction/TransactionException.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/transaction/Transaction.java
+END
+BaseTransactionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/transaction/BaseTransactionConfig.java
+END
+TransactionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/transaction/TransactionState.java
+END
+IsolationLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/transaction/IsolationLevel.java
+END
+TransactionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/transaction/TransactionConfig.java
+END

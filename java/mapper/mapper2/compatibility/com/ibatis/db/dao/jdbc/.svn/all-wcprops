@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/dao/jdbc
+END
+SqlMap2DaoTransactionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/dao/jdbc/SqlMap2DaoTransactionPool.java
+END
+SqlMap2DaoTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/compatibility/com/ibatis/db/dao/jdbc/SqlMap2DaoTransaction.java
+END

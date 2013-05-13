@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/ddl/mssql
+END
+jpetstore-mssql-dataload.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/ddl/mssql/jpetstore-mssql-dataload.sql
+END
+jpetstore-mssql-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/ddl/mssql/jpetstore-mssql-schema.sql
+END

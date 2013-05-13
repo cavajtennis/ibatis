@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/builder/xml
+END
+SqlMapClasspathEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/builder/xml/SqlMapClasspathEntityResolver.java
+END
+SqlMapConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/builder/xml/SqlMapConfigParser.java
+END
+SqlStatementParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/builder/xml/SqlStatementParser.java
+END
+sql-map-2.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/builder/xml/sql-map-2.dtd
+END
+sql-map-config-2.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/builder/xml/sql-map-config-2.dtd
+END
+BaseParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/builder/xml/BaseParser.java
+END
+XmlConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/builder/xml/XmlConverter.java
+END
+SqlMapParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/src/com/ibatis/sqlmap/engine/builder/xml/SqlMapParser.java
+END

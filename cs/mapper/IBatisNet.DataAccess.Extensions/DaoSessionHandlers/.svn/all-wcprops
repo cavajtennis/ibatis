@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Extensions/DaoSessionHandlers
+END
+NHibernateDaoSessionHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Extensions/DaoSessionHandlers/NHibernateDaoSessionHandler.cs
+END
+NHibernateDaoSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Extensions/DaoSessionHandlers/NHibernateDaoSession.cs
+END

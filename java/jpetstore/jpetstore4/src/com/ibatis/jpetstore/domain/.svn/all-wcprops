@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/domain
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/domain/Product.java
+END
+LineItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/domain/LineItem.java
+END
+CartItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/domain/CartItem.java
+END
+Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/domain/Sequence.java
+END
+Cart.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/domain/Cart.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/domain/Order.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/domain/Account.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/domain/Category.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/domain/Item.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain
+END
+Order.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain/Order.cs
+END
+Account.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain/Account.cs
+END
+Category.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain/Category.cs
+END
+User.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain/User.cs
+END
+Other.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain/Other.cs
+END
+LineItemCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain/LineItemCollection.cs
+END
+Search.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain/Search.cs
+END
+Enumeration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain/Enumeration.cs
+END
+LineItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain/LineItem.cs
+END
+Complex.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain/Complex.cs
+END
+AccountCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain/AccountCollection.cs
+END
+AccountBis.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess.Test/Domain/AccountBis.cs
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/docs/dataAccessGuide/styles
+END
+fopdf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/docs/dataAccessGuide/styles/fopdf.xsl
+END
+html.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/docs/dataAccessGuide/styles/html.xsl
+END
+html.css
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/docs/dataAccessGuide/styles/html.css
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/Utilities/TypesResolver
+END
+CachedTypeResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/Utilities/TypesResolver/CachedTypeResolver.cs
+END
+TypeAliasResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/Utilities/TypesResolver/TypeAliasResolver.cs
+END
+TypeResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.Common/Utilities/TypesResolver/TypeResolver.cs
+END

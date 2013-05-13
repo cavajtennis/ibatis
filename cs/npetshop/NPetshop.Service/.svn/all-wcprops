@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Service
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Service/AssemblyInfo.cs
+END
+CatalogService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Service/CatalogService.cs
+END
+AccountService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Service/AccountService.cs
+END
+BillingService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Service/BillingService.cs
+END
+ServiceConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Service/ServiceConfig.cs
+END
+NPetshop.Service.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Service/NPetshop.Service.csproj.user
+END
+ShoppingService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Service/ShoppingService.cs
+END
+NPetshop.Service.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Service/NPetshop.Service.csproj
+END

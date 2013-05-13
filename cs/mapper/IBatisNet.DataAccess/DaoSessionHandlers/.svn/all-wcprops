@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/DaoSessionHandlers
+END
+SimpleDaoSessionHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/DaoSessionHandlers/SimpleDaoSessionHandler.cs
+END
+SimpleDaoSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/DaoSessionHandlers/SimpleDaoSession.cs
+END
+SqlMapDaoSessionHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/DaoSessionHandlers/SqlMapDaoSessionHandler.cs
+END
+SqlMapDaoSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/DaoSessionHandlers/SqlMapDaoSession.cs
+END

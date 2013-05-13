@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Presentation
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Presentation/AssemblyInfo.cs
+END
+ShoppingController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Presentation/ShoppingController.cs
+END
+CatalogController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Presentation/CatalogController.cs
+END
+AccountController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Presentation/AccountController.cs
+END
+NPetshopState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Presentation/NPetshopState.cs
+END
+NPetshop.Presentation.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Presentation/NPetshop.Presentation.csproj.user
+END
+NPetshopContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Presentation/NPetshopContainer.cs
+END
+BillingController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Presentation/BillingController.cs
+END
+NPetshopController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Presentation/NPetshopController.cs
+END
+NPetshop.Presentation.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Presentation/NPetshop.Presentation.csproj
+END

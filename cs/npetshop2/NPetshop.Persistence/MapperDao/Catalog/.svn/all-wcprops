@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Persistence/MapperDao/Catalog
+END
+CategorySqlMapDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Persistence/MapperDao/Catalog/CategorySqlMapDao.cs
+END
+ItemSqlMapDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Persistence/MapperDao/Catalog/ItemSqlMapDao.cs
+END
+ProductSqlMapDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop2/NPetshop.Persistence/MapperDao/Catalog/ProductSqlMapDao.cs
+END

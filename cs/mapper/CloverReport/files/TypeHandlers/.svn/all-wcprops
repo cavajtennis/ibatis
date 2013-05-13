@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers
+END
+CharTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/CharTypeHandler.html
+END
+BooleanTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/BooleanTypeHandler.html
+END
+IParameterSetter.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/IParameterSetter.html
+END
+TimeSpanTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/TimeSpanTypeHandler.html
+END
+SingleTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/SingleTypeHandler.html
+END
+ITypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/ITypeHandler.html
+END
+GuidTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/GuidTypeHandler.html
+END
+ParameterSetterImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/ParameterSetterImpl.html
+END
+DateTimeTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/DateTimeTypeHandler.html
+END
+DecimalTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/DecimalTypeHandler.html
+END
+Int32TypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/Int32TypeHandler.html
+END
+UnknownTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/UnknownTypeHandler.html
+END
+Int16TypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/Int16TypeHandler.html
+END
+IResultGetter.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/IResultGetter.html
+END
+ByteArrayTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/ByteArrayTypeHandler.html
+END
+ByteTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/ByteTypeHandler.html
+END
+EnumTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/EnumTypeHandler.html
+END
+Int64TypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/Int64TypeHandler.html
+END
+ITypeHandlerCallback.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/ITypeHandlerCallback.html
+END
+ObjectTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/ObjectTypeHandler.html
+END
+StringTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/StringTypeHandler.html
+END
+TypeHandlerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/TypeHandlerFactory.html
+END
+DoubleTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/DoubleTypeHandler.html
+END
+CustomTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/CustomTypeHandler.html
+END
+BaseTypeHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/BaseTypeHandler.html
+END
+ResultGetterImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/files/TypeHandlers/ResultGetterImpl.html
+END

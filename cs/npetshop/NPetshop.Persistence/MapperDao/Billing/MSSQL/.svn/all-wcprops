@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Persistence/MapperDao/Billing/MSSQL
+END
+OrderSqlMapDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Persistence/MapperDao/Billing/MSSQL/OrderSqlMapDao.cs
+END
+SequenceSqlMapDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Persistence/MapperDao/Billing/MSSQL/SequenceSqlMapDao.cs
+END

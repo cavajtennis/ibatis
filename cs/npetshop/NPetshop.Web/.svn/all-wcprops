@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/Web.config
+END
+providers.config
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/providers.config
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/Global.asax
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/Default.aspx
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/Global.asax.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/AssemblyInfo.cs
+END
+SqlMap.config
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/SqlMap.config
+END
+NPetshop.mdb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/NPetshop.mdb
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/Default.aspx.cs
+END
+NPetshop.Web.csproj.webinfo
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/NPetshop.Web.csproj.webinfo
+END
+dao.config
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/dao.config
+END
+DataBase.config
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/DataBase.config
+END
+Global.asax.resx
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/Global.asax.resx
+END
+NPetshop.Web.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/NPetshop.Web.csproj
+END
+Default.aspx.resx
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Web/Default.aspx.resx
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/ddl/hsql
+END
+jpetstore-hsqldb-dataload.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/ddl/hsql/jpetstore-hsqldb-dataload.sql
+END
+jpetstore-hsqldb-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/ddl/hsql/jpetstore-hsqldb-schema.sql
+END

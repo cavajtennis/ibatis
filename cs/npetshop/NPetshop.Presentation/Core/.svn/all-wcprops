@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Presentation/Core
+END
+WebLocalSingleton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Presentation/Core/WebLocalSingleton.cs
+END
+AbstractWebAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Presentation/Core/AbstractWebAction.cs
+END
+IWebAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Presentation/Core/IWebAction.cs
+END
+WebConstants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop/NPetshop.Presentation/Core/WebConstants.cs
+END

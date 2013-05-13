@@ -1,0 +1,14 @@
+K 14
+fisheye.access
+V 5
+allow
+K 10
+svn:ignore
+V 108
+HashCodeProvider.dll
+ICSharpCode.SharpZipLib.dll
+Iesi.Collections.dll
+NHibernate.dll
+ByteFX.MySqlClient.dll
+
+END

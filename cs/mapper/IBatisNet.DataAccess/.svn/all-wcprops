@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess
+END
+notice.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/notice.txt
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/AssemblyInfo.cs
+END
+licence.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/licence.txt
+END
+AssemblyKey.snk
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/AssemblyKey.snk
+END
+DaoManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/DaoManager.cs
+END
+MessageManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/MessageManager.cs
+END
+SessionHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/SessionHolder.cs
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/ChangeLog.txt
+END
+DaoConfig.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/DaoConfig.xsd
+END
+IBatisNet.DataAccess.build
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/IBatisNet.DataAccess.build
+END
+IBatisNet.DataAccess.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/IBatisNet.DataAccess.csproj
+END
+DaoSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataAccess/DaoSession.cs
+END

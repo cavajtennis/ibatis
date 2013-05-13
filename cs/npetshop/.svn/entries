@@ -1,0 +1,80 @@
+10
+
+dir
+1403280
+http://svn.apache.org/repos/asf/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/npetshop
+http://svn.apache.org/repos/asf
+
+
+
+2006-03-04T14:21:51.191984Z
+383115
+gbayon
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+NPetshop.Service
+dir
+
+NPetshop.Persistence
+dir
+
+NPetshop.Domain
+dir
+
+External-bin
+dir
+
+NPetshop.Presentation
+dir
+
+NPetshop.sln
+file
+
+
+
+
+2012-10-29T13:18:29.873288Z
+14e5961853b4cbc0ca984de539d52ae3
+2006-03-04T14:21:51.191984Z
+383115
+gbayon
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4125
+
+NPetshop.Web
+dir
+

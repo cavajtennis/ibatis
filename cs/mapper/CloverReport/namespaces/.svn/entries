@@ -1,0 +1,118 @@
+10
+
+dir
+1403280
+http://svn.apache.org/repos/asf/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/CloverReport/namespaces
+http://svn.apache.org/repos/asf
+
+
+
+2006-03-04T14:21:51.191984Z
+383115
+gbayon
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+IBatisNet.DataMapper.Exceptions
+dir
+
+IBatisNet.Common.Utilities
+dir
+
+IBatisNet.DataMapper.SessionContainer
+dir
+
+IBatisNet.DataMapper.Configuration.Sql.Dynamic.Handlers
+dir
+
+IBatisNet.DataMapper.Configuration.Sql.Dynamic
+dir
+
+IBatisNet.DataMapper.Configuration.Cache.Fifo
+dir
+
+IBatisNet.Common.Exceptions
+dir
+
+IBatisNet.DataMapper.Configuration.Sql.Static
+dir
+
+IBatisNet.DataMapper.Configuration.Statements
+dir
+
+IBatisNet.DataMapper.Configuration.Alias
+dir
+
+IBatisNet.Common.Transaction
+dir
+
+IBatisNet.Common.Logging
+dir
+
+IBatisNet.DataMapper.Configuration.ResultMapping
+dir
+
+IBatisNet.DataMapper.Commands
+dir
+
+IBatisNet.DataMapper
+dir
+
+IBatisNet.DataMapper.Configuration.ParameterMapping
+dir
+
+IBatisNet.DataMapper.Configuration.Sql.SimpleDynamic
+dir
+
+IBatisNet.DataMapper.TypeHandlers
+dir
+
+IBatisNet.Common.Pagination
+dir
+
+IBatisNet.DataMapper.Configuration.Sql.Dynamic.Elements
+dir
+
+IBatisNet.DataMapper.Configuration.Sql
+dir
+
+IBatisNet.DataMapper.Configuration
+dir
+
+IBatisNet.DataMapper.Configuration.Cache
+dir
+
+IBatisNet.DataMapper.Scope
+dir
+
+IBatisNet.DataMapper.Configuration.Cache.Lru
+dir
+
+IBatisNet.Common.Utilities.TypesResolver
+dir
+
+IBatisNet.Common
+dir
+
+IBatisNet.Common.Utilities.Objects
+dir
+
+IBatisNet.DataMapper.MappedStatements
+dir
+
+IBatisNet.DataMapper.Configuration.Cache.Memory
+dir
+

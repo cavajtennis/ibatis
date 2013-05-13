@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/persistence/sqlmapdao
+END
+CategorySqlMapDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/persistence/sqlmapdao/CategorySqlMapDao.java
+END
+ItemSqlMapDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/persistence/sqlmapdao/ItemSqlMapDao.java
+END
+ProductSqlMapDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/persistence/sqlmapdao/ProductSqlMapDao.java
+END
+SequenceSqlMapDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/persistence/sqlmapdao/SequenceSqlMapDao.java
+END
+BaseSqlMapDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/persistence/sqlmapdao/BaseSqlMapDao.java
+END
+OrderSqlMapDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/persistence/sqlmapdao/OrderSqlMapDao.java
+END
+AccountSqlMapDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/jpetstore/jpetstore4/src/com/ibatis/jpetstore/persistence/sqlmapdao/AccountSqlMapDao.java
+END

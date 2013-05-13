@@ -1,0 +1,10 @@
+K 14
+fisheye.access
+V 5
+allow
+K 10
+svn:ignore
+V 4
+obj
+
+END

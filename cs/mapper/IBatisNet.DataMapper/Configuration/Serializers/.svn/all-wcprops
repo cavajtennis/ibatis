@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers
+END
+IsNotEmptyDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsNotEmptyDeSerializer.cs
+END
+IsLessThanDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsLessThanDeSerializer.cs
+END
+ResultPropertyDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/ResultPropertyDeSerializer.cs
+END
+IterateSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IterateSerializer.cs
+END
+CacheModelDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/CacheModelDeSerializer.cs
+END
+DynamicDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/DynamicDeSerializer.cs
+END
+ParameterPropertyDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/ParameterPropertyDeSerializer.cs
+END
+SubMapDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/SubMapDeSerializer.cs
+END
+IsNotNullDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsNotNullDeSerializer.cs
+END
+IsLessEqualDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsLessEqualDeSerializer.cs
+END
+IsNotParameterPresentDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsNotParameterPresentDeSerializer.cs
+END
+IsEqualDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsEqualDeSerializer.cs
+END
+InsertDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/InsertDeSerializer.cs
+END
+IsNullDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsNullDeSerializer.cs
+END
+DeSerializerFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/DeSerializerFactory.cs
+END
+DiscriminatorDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/DiscriminatorDeSerializer.cs
+END
+ResultMapDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/ResultMapDeSerializer.cs
+END
+IsParameterPresentDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsParameterPresentDeSerializer.cs
+END
+IsGreaterEqualDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsGreaterEqualDeSerializer.cs
+END
+ParameterMapDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/ParameterMapDeSerializer.cs
+END
+TypeHandlerDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/TypeHandlerDeSerializer.cs
+END
+SelectDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/SelectDeSerializer.cs
+END
+IsPropertyAvailableDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsPropertyAvailableDeSerializer.cs
+END
+UpdateDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/UpdateDeSerializer.cs
+END
+IsNotEqualDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsNotEqualDeSerializer.cs
+END
+ProcedureDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/ProcedureDeSerializer.cs
+END
+IDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IDeSerializer.cs
+END
+IsEmptyDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsEmptyDeSerializer.cs
+END
+TypeAliasDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/TypeAliasDeSerializer.cs
+END
+IsGreaterThanDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsGreaterThanDeSerializer.cs
+END
+IsNotPropertyAvailableDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/IsNotPropertyAvailableDeSerializer.cs
+END
+DeleteDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/DeleteDeSerializer.cs
+END
+StatementDeSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/804597/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/cs/mapper/IBatisNet.DataMapper/Configuration/Serializers/StatementDeSerializer.cs
+END

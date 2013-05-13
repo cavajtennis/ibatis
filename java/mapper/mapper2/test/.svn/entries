@@ -1,0 +1,77 @@
+10
+
+dir
+1403280
+http://svn.apache.org/repos/asf/ibatis/java/ibatis-2/tags/java_release_2.1.6-589/java/mapper/mapper2/test
+http://svn.apache.org/repos/asf
+
+
+
+2006-03-04T14:21:51.191984Z
+383115
+gbayon
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+scripts
+dir
+
+testdomain
+dir
+
+xmltester
+dir
+
+compatibility
+dir
+
+log4j.properties
+file
+
+
+
+
+2012-10-29T13:10:43.323123Z
+b5c4d6cec8011540709a6689cc39bad6
+2006-03-04T14:21:51.191984Z
+383115
+gbayon
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+367
+
+com
+dir
+
